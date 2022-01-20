@@ -8,8 +8,8 @@ Nir Yazdi, nir.yazdi@mail.huji.ac.il
 Lautaro Borrovinsky, lautaro.borrovinsky@mail.huji.ac.il
 
 
-                           Project 8 - VM Translator (Program Control)
-                           -------------------------------------------
+Project 8 - VM Translator (Program Control)
+-------------------------------------------
 
 Files
 ---------------
