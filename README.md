@@ -8,8 +8,6 @@ Authors:
 Nir Yazdi, Lautaro Borrovinsky
 
 
-Project 8 - VM Translator (Program Control)
--------------------------------------------
 
 Files
 ---------------
