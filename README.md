@@ -3,11 +3,9 @@
 Project #8 in "Nand to Tetris" course.
 specification: https://www.nand2tetris.org/project08
 
-
-========================================================================
+Authors:
 Nir Yazdi, nir.yazdi@mail.huji.ac.il
 Lautaro Borrovinsky, lautaro.borrovinsky@mail.huji.ac.il
-========================================================================
 
 
                            Project 8 - VM Translator (Program Control)
